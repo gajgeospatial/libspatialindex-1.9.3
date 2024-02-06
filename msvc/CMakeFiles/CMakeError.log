@@ -1,0 +1,45 @@
+Determining if the function srand48 exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_8b33f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=srand48 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8b33f.dir\Debug\\" /Fd"cmTC_8b33f.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol srand48 referenced in function main [N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\cmTC_8b33f.vcxproj]
+N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_8b33f.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\cmTC_8b33f.vcxproj]
+
+
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_e9b77.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e9b77.dir\Debug\\" /Fd"cmTC_e9b77.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gettimeofday referenced in function main [N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\cmTC_e9b77.vcxproj]
+N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_e9b77.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\cmTC_e9b77.vcxproj]
+
+
+
+Determining if the function bcopy exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_a334d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=bcopy /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a334d.dir\Debug\\" /Fd"cmTC_a334d.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol bcopy referenced in function main [N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\cmTC_a334d.vcxproj]
+N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_a334d.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\libspatialindex-1.9.3\msvc\CMakeFiles\CMakeTmp\cmTC_a334d.vcxproj]
+
+
+

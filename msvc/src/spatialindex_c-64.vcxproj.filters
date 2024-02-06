@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\src\capi\BoundsQuery.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\CountVisitor.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\CustomStorage.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\DataStream.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\Error.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\IdVisitor.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\Index.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\LeafQuery.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\ObjVisitor.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\sidx_api.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\capi\Utility.cc">
+      <Filter>C API Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="C API Source Files">
+      <UniqueIdentifier>{6863AD96-317B-389E-AF1B-C37672B7EFBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Files">
+      <UniqueIdentifier>{E2E3CD47-E580-3D72-BD63-B283DD4AC026}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

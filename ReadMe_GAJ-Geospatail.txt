@@ -1,0 +1,1 @@
+This project should be installed as SPATIALINDEX_DIR with ProjectTool.

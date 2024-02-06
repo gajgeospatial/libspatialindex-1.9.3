@@ -1,0 +1,11 @@
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/dist.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/PACKAGE.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/RUN_TESTS.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/src/CMakeFiles/spatialindex-64.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/src/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/src/CMakeFiles/RUN_TESTS.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/src/CMakeFiles/spatialindex_c-64.dir
+N:/Development/Dev_Base/libspatialindex-1.9.3/msvc/src/CMakeFiles/PACKAGE.dir
